@@ -63,7 +63,7 @@ const Graphic: React.FC = () => {
               <Chart
                 key={data.id}
                 width="650px"
-                height="450px"
+                height="460px"
                 chartType="Bar"
                 data={[
                   ['', 'Tensão', 'Corrente', 'Potência', 'Temperatura'],

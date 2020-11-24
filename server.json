@@ -2,7 +2,7 @@
   "client": [
     {
       "image": "https://www.solarix.eco.br/wp-content/uploads/2018/06/energia-solar_00013-1-thegem-post-thumb-large.jpg",
-      "name": "maria",
+      "name": "maria ",
       "percentualUsina": "50",
       "address": "Rua Francisco Viléla 000 Qd 00 ",
       "telephone": "(62) 9 0000-0000",
@@ -13,9 +13,9 @@
     {
       "image": "https://image.freepik.com/fotos-gratis/vista-aerea-de-uma-casa-particular-com-paineis-solares-no-telhado_181624-14677.jpg",
       "name": "maria jose",
-      "percentualUsina": "4",
+      "percentualUsina": "15",
       "address": "Rua Francisco Viléla 000 Qd 00 ",
-      "telephone": "(62) 9 9999-9999",
+      "telephone": "(62) 9 9999-0000",
       "numeroUsina": "1",
       "available": true,
       "id": 2

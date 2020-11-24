@@ -84,8 +84,11 @@ const Client: React.FC<IProps> = ({
         <p>Endereço: {client.address}</p>
         <p>Telefone: {client.telephone}</p>
         <p>Usina: {client.numeroUsina}</p>
-        <p>PercentualUsina: {client.percentualUsina}</p>
-        <p>Total: {formatValue((client.percentualUsina / 100) * datas)}</p>
+        <p>Percentual da Usina: {client.percentualUsina}%</p>
+        <p>
+          Retorno Financeiro:{' '}
+          {formatValue((client.percentualUsina / 100) * datas)}
+        </p>
       </section>
       <section className="client">
         <div className="icon-container">

@@ -2,14 +2,14 @@
 ![](app.jpg)
 
 ## Link do Vídeo
-https://youtu.be/3q2b0hMS1P4
+https://youtu.be/MFr704c0knM
 
 ## Clonar o repositório:
 https://github.com/DIOGO-MOTA/Sharenergy.git
 
 ## Execução de Projeto
-yarn
-yarn start
+1. yarn
+2. yarn start
 
 ## Utilizando uma fake API
 
