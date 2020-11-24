@@ -22,7 +22,7 @@ interface IClient {
   address: string;
   telephone: string;
   numeroUsina: string;
-  percentualUsina: string;
+  percentualUsina: number;
 }
 
 const Dashboard: React.FC = () => {

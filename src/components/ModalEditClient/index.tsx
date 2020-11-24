@@ -14,7 +14,7 @@ interface IClient {
   address: string;
   telephone: string;
   numeroUsina: string;
-  percentualUsina: string;
+  percentualUsina: number;
 }
 
 interface IModalProps {
@@ -32,7 +32,7 @@ interface IEditClientData {
   address: string;
   telephone: string;
   numeroUsina: string;
-  percentualUsina: string;
+  percentualUsina: number;
 }
 
 const ModalEditClient: React.FC<IModalProps> = ({

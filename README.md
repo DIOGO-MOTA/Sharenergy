@@ -56,3 +56,4 @@ Para isso, foi deixado instalado no seu package.json uma dependência chamada js
 
 7. Paginação ao listar os dados da rota /hours
 
+8. Retorno financeiro dos clientes

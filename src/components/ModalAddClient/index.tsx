@@ -14,7 +14,7 @@ interface IClient {
   address: string;
   telephone: string;
   numeroUsina: string;
-  percentualUsina: string;
+  percentualUsina: number;
 }
 
 interface ICreateClientData {
@@ -25,7 +25,7 @@ interface ICreateClientData {
   address: string;
   telephone: string;
   numeroUsina: string;
-  percentualUsina: string;
+  percentualUsina: number;
 }
 
 interface IModalProps {

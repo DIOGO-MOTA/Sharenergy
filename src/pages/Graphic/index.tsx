@@ -64,12 +64,6 @@ const Graphic: React.FC = () => {
                 key={data.id}
                 width="650px"
                 height="450px"
-                options={{
-                  chart: {
-                    title: 'Sharenergy',
-                    subtitle: `Horário ${data.tempo_h}`,
-                  },
-                }}
                 chartType="Bar"
                 data={[
                   ['', 'Tensão', 'Corrente', 'Potência', 'Temperatura'],
